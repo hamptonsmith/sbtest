@@ -1,6 +1,6 @@
 {
   "name": "@shieldsbetter/sbtest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic, unopinionated test framework.",
   "main": "index.js",
   "scripts": {

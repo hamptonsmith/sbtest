@@ -1,5 +1,7 @@
 'use strict';
 
+const assert = require('assert');
+
 module.exports = async config => {
     if (!global.sbtest) {
         global.sbtest = {
